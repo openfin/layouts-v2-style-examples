@@ -177,6 +177,11 @@ div.wrapper_title {
     padding: 0;
 }
 
+.lm_title {
+    width: 110px;
+    white-space: nowrap;
+}
+
 .lm_header .lm_tab.lm_active {
     background-color: var(--tab-background-color-active);
 }
